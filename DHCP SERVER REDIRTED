@@ -1,0 +1,22 @@
+this is a setup useing the website to create a noip.com and make a dns.
+There is a dchp choice if slected you can chose when example website or in this case  is visted it will redirect to said sorce you set it too
+
+Victims vist --> dns + Trogentropper victim is redirect to facebook not knowing the website was trogen droped 
+
+I call this redirect on the bad side of town lol
+
+Information of noip dns name of server :
+Ftp server name to redirect and make get reqest to get file from ftp
+FTP dir/Wintogen.exe Ftp get 
+192.168.1.208:2121 andriod ftp server
+
+// /// /// ///                           /// // ///////
+        DNS --> http 
+        
+        //////////////
+        
+        Http local http://192.168.1.209:12345/
+        
+        
+        
+        
